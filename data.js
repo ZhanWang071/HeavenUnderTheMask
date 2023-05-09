@@ -47,7 +47,7 @@ var APP_DATA = {
           yaw: 3.0036088624049636,
           pitch: 0.43452078840474186,
           title: "Document",
-          text: "",
+          text: "Republic of iron tower",
         },
       ],
     },
