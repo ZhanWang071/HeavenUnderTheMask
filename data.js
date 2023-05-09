@@ -398,6 +398,12 @@ var APP_DATA = {
           "pitch": 0.35124922910097567,
           "title": "<div>A magnificent office</div>",
           "text": "Symbol of a powerful general"
+        },
+        {
+          "yaw": -2.737329393493601,
+          "pitch": 0.15356396029550012,
+          "title": "To be or not to be?",
+          "text": "This is not even a question, misson never ends"
         }
       ]
     },
@@ -431,10 +437,16 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -0.7846732675769683,
-          "pitch": 0.07017013976965814,
-          "rotation": 6.283185307179586,
-          "target": "12-sewer"
+          "yaw": -3.1286447648339415,
+          "pitch": -0.001213223086796944,
+          "rotation": 0,
+          "target": "10-villas-study"
+        },
+        {
+          "yaw": 1.8460474815848222,
+          "pitch": 0.05396876668933004,
+          "rotation": 0,
+          "target": "11-villas-bedroom"
         }
       ],
       "infoHotspots": [
