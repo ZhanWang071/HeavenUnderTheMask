@@ -124,7 +124,14 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
+      "linkHotspots": [
+        {
+          "yaw": -0.0118528743850419,
+          "pitch": 0.2584032373758802,
+          "rotation": 0,
+          "target": "3-our-embassy"
+        }
+      ],
       "infoHotspots": [
         {
           "yaw": -0.00559227135289575,
@@ -135,8 +142,8 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "3-singapore_embassy",
-      "name": "Singapore_Embassy",
+      "id": "3-our-embassy",
+      "name": "Our Embassy",
       "levels": [
         {
           "tileSize": 256,
@@ -264,6 +271,12 @@ var APP_DATA = {
           "pitch": 0.002754005592201736,
           "rotation": 0,
           "target": "6-secret-arsenal"
+        },
+        {
+          "yaw": 1.3865833131312701,
+          "pitch": 0.06997786659189309,
+          "rotation": 0,
+          "target": "8-villa"
         }
       ],
       "infoHotspots": [
@@ -274,8 +287,8 @@ var APP_DATA = {
           "text": "Finally I meet Prof. Sokolovsky, but in the way I have never imagined."
         },
         {
-          "yaw": -3.1316059884892766,
-          "pitch": -0.4808483966338102,
+          "yaw": -2.859815478149084,
+          "pitch": -0.058817586112589026,
           "title": "The sunshine is bright",
           "text": "Your mind is no more like that"
         }
